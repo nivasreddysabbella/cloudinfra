@@ -1,0 +1,54 @@
+cloud development
+it there are three types
+1.public
+2. private
+3. hybrid cloud
+there are two types of softwares they are
+1.system software
+2. application software
+    1. open source
+    2. closed source
+ there are two different types of services like the software as a service and infrastructure as a service
+ aws-amazon web services
+ amazon has 26 regions and in region there are minimum 2 data centres
+ in each regions there are maximum six availability zone
+ in india there are two data centres 
+ 1. in mumbai -it is lanched in 2016
+ 2. in hyderabad -it is under development
+ open the console.aws.amazon.com
+ now create the account in amazon.com
+ and in vi open the ec2 instances
+ in it open the amazon machine learning (AMI)
+  in amazon machine learning we can write the linux servers
+      in instances there are differnt types of architecture
+        1. t series(basic level)
+        2. m series(for more ram level)
+  in storage class
+     1.ebs(elastic block storage) we can increase upto required data level
+  we can create at a time twenty instances only
+  ssh port no is 22 we can use from any place(secure shell)
+  if we want to connect the windows machine to remote location  that it is rtb protocal
+  the types of prots available
+  UDV
+  ICMP
+  
+  there are total 63538 ports are used
+  there are group of id's
+      which instences we selected and which operating system we selected
+      we can open with the default user name
+ now we select the machine and we create the instance machine 
+ for linux operating system it take 2 min and for the windows operating system it takes upto 4 min
+      
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
