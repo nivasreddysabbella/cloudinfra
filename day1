@@ -38,6 +38,21 @@ there are two types of softwares they are
       we can open with the default user name
  now we select the machine and we create the instance machine 
  for linux operating system it take 2 min and for the windows operating system it takes upto 4 min
+ we have opened to linux console machine
+ 
+sudo su for login to the root 
+1.linux operating system
+            yum install httpd.y(then the package will be installed succesfully)
+            this is how the linux will be installed
+            now the service will be installed and how to start the service 
+            start systemctl start httpd
+            for getting installed
+            for adding a file then we need to perform the 
+            vi /var/total address
+                    hello world what we write here will be refreshed in the public ip address
+                    mobaxstream is used for the creating the (host and private ip address and the passcode ) these all are available in the aws.domain 
+           for editing the file is use the root user
+             vi /var/
       
   
   
